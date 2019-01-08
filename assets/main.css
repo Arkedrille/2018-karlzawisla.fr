@@ -1,0 +1,20 @@
+html{
+    background-color: #b5c7e5;
+    color: #e8eef7;
+    font-family: Arial;
+}
+
+h4{
+    text-align: left;
+}
+
+.prez{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    /* text-align: center;
+    border: 3px;
+    padding: 70px 0; */
+}
